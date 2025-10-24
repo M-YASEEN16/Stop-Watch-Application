@@ -1,4 +1,4 @@
-console.log("JavaScript Connected");
+// console.log("JavaScript Connected");
 var display = document.getElementById("display");
 var startTimer = document.getElementById("start");
 var stopTimer = document.getElementById("stop");
